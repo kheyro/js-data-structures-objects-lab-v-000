@@ -1,3 +1,6 @@
 // Write your solution in this file!
 
-let drivers = {'foo', 'bar'}
+let drivers = {
+    name: 'denis',
+    age: 30
+  }

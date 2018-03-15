@@ -1,3 +1,3 @@
 // Write your solution in this file!
 
-let drivers = {}
+let drivers = {'foo', 'bar'}
